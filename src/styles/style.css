@@ -1,0 +1,15 @@
+.quote_item{
+    padding: 10px 0;
+}
+.quote_item a{
+    color: #333;
+    text-decoration: none;
+}
+.quote_item a:hover{
+    color: rgb(131, 56, 56);
+    text-decoration: underline;
+}
+.quotes_info{
+    padding: 30px;
+    text-align: center;
+}
